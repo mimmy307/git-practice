@@ -1,3 +1,4 @@
 Name: Mynorka
 Age: 29
 Favorite Color: Blue
+Favorite animal: Penguin
